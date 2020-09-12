@@ -1,4 +1,6 @@
 main {
+  background-color: 'black';
+  color: #FF9933;
   align-content: center;
   box-sizing: border-box;
   display: grid;
